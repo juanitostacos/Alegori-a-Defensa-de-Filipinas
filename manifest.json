@@ -1,0 +1,99 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/manifest.json",
+	"type": "Manifest",
+	"label": {
+	  "es": [
+		"Alegoría — Defensa de Filipinas"
+	  ],
+	  "en": [
+		"Allegory — Defense of the Philippines"
+	  ]
+	},
+	"items": [
+	  {
+		"id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/canvas-1",
+		"type": "Canvas",
+		"height": 4786,
+		"width": 6703,
+		"label": {
+		  "es": [
+			"Alegoría Defensa de Filipinas"
+		  ],
+		  "en": [
+			"Allegory Defense of the Philippines"
+		  ]
+		},
+		"metadata": [
+		  {
+			"label": { "es": ["Título"], "en": ["Title"] },
+			"value": { "es": ["Alegoría de la defensa de Filipinas por Don Simón de Anda y Salazar. (1762-1763)"], "en": ["Allegory of the defense of the Philippines by Don Simón de Anda y Salazar. (1762-1763)"] }
+		  },
+		  {
+			"label": { "es": ["Autor"], "en": ["Creator"] },
+			"value": { "es": ["Anónimo"], "en": ["Anonymous"] }
+		  },
+		  {
+			"label": { "es": ["Fecha"], "en": ["Date"] },
+			"value": { "es": ["Después de 1772"], "en": ["After 1772"] }
+		  }
+		],
+		"thumbnail": [
+		  {
+			"id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec/full/418,/0/default.jpg",
+			"type": "Image",
+			"format": "image/jpeg",
+			"height": 299,
+			"width": 418
+		  }
+		],
+		"items": [
+		  {
+			"id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/canvas-1/page/1",
+			"type": "AnnotationPage",
+			"items": [
+			  {
+				"id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/annotation/fullimage",
+				"type": "Annotation",
+				"motivation": "painting",
+				"target": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/canvas-1",
+				"body": {
+				  "id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec/full/max/0/default.jpg",
+				  "type": "Image",
+				  "format": "image/jpeg",
+				  "height": 4786,
+				  "width": 6703,
+				  "service": [
+					{
+					  "@context": "http://iiif.io/api/image/2/context.json",
+					  "@id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec",
+					  "protocol": "http://iiif.io/api/image",
+					  "width": 6703,
+					  "height": 4786,
+					  "sizes": [
+						{ "width": 209, "height": 149 },
+						{ "width": 418, "height": 299 },
+						{ "width": 837, "height": 598 }
+					  ],
+					  "tiles": [
+						{ "width": 256, "height": 256, "scaleFactors": [1,2,4,8,16,32] }
+					  ],
+					  "profile": [
+						"http://iiif.io/api/image/2/level1.json",
+						{
+						  "formats": ["jpg"],
+						  "qualities": ["native","color","gray"],
+						  "supports": ["regionByPct","regionSquare","sizeByForcedWh","sizeByWh","sizeAboveFull","rotationBy90s","mirroring"]
+						}
+					  ]
+					}
+				  ]
+				}
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }
+  
