@@ -1,0 +1,179 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Alegoría de la defensa de Filipinas por el alavés Don Simón de Anda y Salazar"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/canvas/s21fb5jgiuc-mfqonnbe",
+      "type": "Canvas",
+      "height": 4786,
+      "width": 6703,
+      "label": {
+        "en": [
+          "Alegoría Defensa de Filipinas"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Alegoría de la defensa de Filipinas por el alavés Don Simón de Anda y Salazar. (Allegory of the defense of the Philippines by Don Simón de Anda y Salazar from Alava.) 1762-1763"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ]
+          },
+          "value": {
+            "en": [
+              "Translation:\n\nThe canvas shows at the top the portrait of Simón de Anda y Salazar (Subijana de Álava, 1709–Cavite, Philippines, 1776) and, around a map of the Philippines, various numbered scenes that depict episodes and military actions that took place during the British occupation of 1762–1763; these are listed in order in a central cartouche.\n\nSimón de Anda studied in Vitoria and Sigüenza and earned a doctorate in law at the University of Alcalá de Henares. After practising in Madrid, he was appointed oidor of the Audiencia of Manila and relocated there in 1755; he held that post when the city was taken by the British in 1762. Faced with a collapse of governance, he organised with great success the defence of the archipelago using troops composed of natives, Spaniards and novohispanos (Mexicans). In 1765 he returned to Spain, where he was received with honours, and Carlos III appointed him councillor of Castile, a post he assumed in 1767. Subsequently he served as president of the Audiencia and as governor and captain-general of the Philippines from 1769 until his death in 1776. He received the Cross of the Order of Carlos III in 1772, a decoration he wears on his chest in this work; its conferment may have been one of the motives for the creation of this large canvas.\n\nThe work, by an anonymous author, was donated to the Diputación Foral de Álava by Ricardo Augustin (1875–1965). This lawyer, originally from Madrid and a descendant of Simón de Anda in the maternal line, was the owner, together with his wife, the Alavese Elvira Zulueta (1871–1917), of the Palacio Augustin Zulueta, built in 1912 in Vitoria-Gasteiz and now the seat of the Museum of Fine Arts of Álava. The donation of this painting, together with a number of other works (including a half-length portrait of Simón de Anda, No. 2916), and the furniture and objects from the house, took place in 1941 when the palace was sold to the provincial institution.\n\nOriginal:\n\nEl lienzo muestra en lo alto el retrato de Simón de Anda y Salazar (Subijana de Álava, 1709 - Cavite, Filipinas, 1776) y en torno al mapa de Filipinas distintas escenas numeradas que desarrollan episodios y acciones bélicas que tuvieron lugar durante la ocupación británica de 1762-1763 y que se mencionan por orden en una cartela central.\n\nSimón de Anda había realizado estudios en Vitoria y Sigüenza, doctorándose en leyes en la Universidad de Alcalá de Henares. Tras ejercer en Madrid, fue designado oidor de la Audiencia de Manila, a donde se traslada en 1755, cargo que ocupaba cuando se produce la toma de esa ciudad por los británicos en 1762. Ante la situación de desgobierno, organiza con gran éxito la defensa del archipiélago con tropas formadas por nativos, españoles y novohispanos (mexicanos). En 1765 regresa a España donde es recibido con honores y Carlos III le nombra consejero de Castilla, cargo del que toma posesión en 1767. Posteriormente, fue presidente de la Audiencia, gobernador y capitán general de Filipinas de 1769 a 1776, cargo que ostenta hasta su muerte. Obtuvo la cruz de la orden de Carlos III en 1772, condecoración que luce en el pecho en esta obra y cuya obtención pudo ser uno de los motivos de la realización de este gran lienzo.\n\nLa obra, de autor anónimo, fue donada a la Diputación Foral de Álava por Ricardo Augustin (1875 - 1965). Este abogado de origen madrileño y descendiente de Simón de Anda por línea materna, fue el propietario junto a su mujer, la alavesa Elvira Zulueta (1871 - 1917), del Palacio Augustin Zulueta construido en 1912 en Vitoria-Gasteiz y actual sede del Museo de Bellas Artes de Álava. La donación de este cuadro, junto a otra serie de obras, como un retrato de medio cuerpo de Simón de Anda (Nº 2916), mobiliario y objetos que se hallaban en la casa, se produjo en 1941 al venderse el Palacio a la institución alavesa."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ]
+          },
+          "value": {
+            "en": [
+              "Anonymous"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "After 1772"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Materials"
+            ]
+          },
+          "value": {
+            "en": [
+              "Oil on canvas"
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          "The canvas shows above the portrait of Simón de Anda y Salazar (Subijana de Álava, 1709 - Cavite, Philippines, 1776) and around the map of the Philippines different numbered scenes that develop episodes and war actions that took place during the British occupation from 1762-1763 and which are mentioned in order on a central cartouche."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec/full/418,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 299,
+          "width": 418
+        }
+      ],
+      "items": [
+        {
+          "id": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe/annotation-page/zqnde3uvmxh-mfqonnbe",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/annotation/gejrzeol3n8-mfqonnbc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe",
+              "body": {
+                "id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4786,
+                "width": 6703,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 6703,
+                    "height": 4786,
+                    "sizes": [
+                      {
+                        "width": 209,
+                        "height": 149
+                      },
+                      {
+                        "width": 418,
+                        "height": 299
+                      },
+                      {
+                        "width": 837,
+                        "height": 598
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": [
+                          "jpg"
+                        ],
+                        "qualities": [
+                          "native",
+                          "color",
+                          "gray"
+                        ],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
