@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://juanitostacos.github.io/Alegori-a-Defensa-de-Filipinas/canvas/s21fb5jgiuc-mfqonnbe",
+      "id": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe",
       "type": "Canvas",
       "height": 4786,
       "width": 6703,
@@ -107,7 +107,7 @@
               "body": {
                 "id": "https://free.iiifhosting.com/iiif/c2083eeb2940017643b85bacefeebce0129d91b82e8c703d530af2364c54dbec/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "height": 4786,
                 "width": 6703,
                 "service": [
@@ -169,6 +169,32 @@
                     ]
                   }
                 ]
+              }
+            },
+            {
+              "id": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe/annotation-page/zqnde3uvmxh-mfqonnbe/annotation/ollkn5ao0lf-mfr322wc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe#xywh=4037,59,1352,808",
+              "body": {
+                "id": "https://philippinestudies.uk/mapping/files/fullsize/0dbb730976dea21888de6eeb53c06c69.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 478,
+                "width": 800
+              }
+            },
+            {
+              "id": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe/annotation-page/zqnde3uvmxh-mfqonnbe/annotation/xy9edt81gqs-mfr393ks",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://juanitostacos.github.io/cmwfnlb2l35-mfqo6rtf/canvas/s21fb5jgiuc-mfqonnbe#xywh=5426,66,1231,791",
+              "body": {
+                "id": "https://philippinestudies.uk/mapping/files/fullsize/6910668bfa0db8f12d392c522d704f4d.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 514,
+                "width": 800
               }
             }
           ]
